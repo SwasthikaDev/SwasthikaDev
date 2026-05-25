@@ -23,8 +23,8 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SwasthikaDev&show_icons=true&hide_border=true&title_color=ffc107&icon_color=198754&text_color=f8f9fa&bg_color=00000000&count_private=true&include_all_commits=true">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=SwasthikaDev&show_icons=true&hide_border=true&title_color=0d6efd&icon_color=198754&text_color=212529&bg_color=00000000&count_private=true&include_all_commits=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=ffc107&currStreakLabel=ffc107&sideNums=f8f9fa&sideLabels=adb5bd&dates=adb5bd">
+    <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=0d6efd&currStreakLabel=0d6efd&sideNums=212529&sideLabels=6c757d&dates=6c757d">
   </picture>
 </p>
 
