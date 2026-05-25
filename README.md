@@ -34,4 +34,5 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 ### Where to find me
 
 - LinkedIn: [@swasthikadev](https://www.linkedin.com/in/swasthikadev)
-- Calyirex: building in public
+- Calyirex / Kautilya GovTech: [kautilya.calyirex.com](https://kautilya.calyirex.com/)
+- Finding Funda (quizzing, passion project): [findingfundaa.com](https://findingfundaa.com/home)
