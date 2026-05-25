@@ -1,5 +1,8 @@
 <p align="center">
-  <img alt="Swasthika's contribution graph" src="https://ghchart.rshah.org/198754/SwasthikaDev" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/output/github-snake-dark.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/output/github-snake.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
