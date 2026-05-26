@@ -1,0 +1,49 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch user stats
+        env:
+          GH_PAT: ${{ secrets.PROFILE_PAT }}
+        run: |
+          set -e
+          mkdir -p data
+          response=$(curl -sS -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/user)
+          total_private=$(echo "$response" | jq '.total_private_repos // 0')
+          owned_private=$(echo "$response" | jq '.owned_private_repos // 0')
+          public_repos=$(echo "$response" | jq '.public_repos // 0')
+          total=$((public_repos + total_private))
+          cat > data/profile-stats.json <<EOF
+          {
+            "public_repos": $public_repos,
+            "private_repos": $total_private,
+            "owned_private_repos": $owned_private,
+            "total_repos": $total,
+            "updated_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          }
+          EOF
+          cat data/profile-stats.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/profile-stats.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update profile stats"
+            git push
+          fi
