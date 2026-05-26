@@ -12,11 +12,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/SwasthikaDev?style=flat-square&logo=github&logoColor=white&label=followers&color=198754&labelColor=212529">
-  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSwasthikaDev&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&logoColor=white&color=0d6efd&labelColor=212529">
-</p>
-
 ### About
 
 I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI tooling for civic and government systems, focused on evidence integrity and Section 65B compliant infrastructure. Right now I am piloting the Bridge Device in Jaipur.
@@ -32,12 +27,17 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=ffc107&currStreakLabel=ffc107&sideNums=f8f9fa&sideLabels=adb5bd&dates=adb5bd">
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=0d6efd&currStreakLabel=0d6efd&sideNums=212529&sideLabels=6c757d&dates=6c757d">
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=0d6efd&currStreakLabel=0d6efd&sideNums=212529&sideLabels=6c757d&dates=6c757d" width="400">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwasthikaDev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffc107&text_color=f8f9fa&langs_count=6">
-    <img alt="top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwasthikaDev&layout=compact&hide_border=true&bg_color=00000000&title_color=0d6efd&text_color=212529&langs_count=6">
+    <img alt="top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwasthikaDev&layout=compact&hide_border=true&bg_color=00000000&title_color=0d6efd&text_color=212529&langs_count=6" width="300">
   </picture>
+</p>
+
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/SwasthikaDev?style=flat-square&logo=github&logoColor=white&label=followers&color=198754&labelColor=212529">
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSwasthikaDev&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&logoColor=white&color=0d6efd&labelColor=212529">
 </p>
 
 ### Where to find me
