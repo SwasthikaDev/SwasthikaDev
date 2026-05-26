@@ -27,11 +27,7 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=ffc107&currStreakLabel=ffc107&sideNums=f8f9fa&sideLabels=adb5bd&dates=adb5bd">
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=0d6efd&currStreakLabel=0d6efd&sideNums=212529&sideLabels=6c757d&dates=6c757d" width="400">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/main/assets/languages-dark.svg">
-    <img alt="My Levels - top programming languages" src="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/main/assets/languages.svg" width="400">
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=0d6efd&currStreakLabel=0d6efd&sideNums=212529&sideLabels=6c757d&dates=6c757d">
   </picture>
 </p>
 
