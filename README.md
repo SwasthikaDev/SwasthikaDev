@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img alt="pixel snake" src="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/main/assets/snake-sprite.svg" width="120">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=ffc107&center=true&vCenter=true&width=560&height=44&lines=HI%2C+I%27M+SWASTHIKA;FOUNDER+OF+CALYIREX;GOVTECH+FOR+INDIA">
     <img alt="intro" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=0d6efd&center=true&vCenter=true&width=560&height=44&lines=HI%2C+I%27M+SWASTHIKA;FOUNDER+OF+CALYIREX;GOVTECH+FOR+INDIA">
