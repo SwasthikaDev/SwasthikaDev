@@ -3,32 +3,5 @@
   "private_repos": 15,
   "owned_private_repos": 15,
   "total_repos": 39,
-  "top_languages": [
-    {
-      "name": "Jupyter Notebook",
-      "bytes": 7634609,
-      "pct": 83.28
-    },
-    {
-      "name": "Python",
-      "bytes": 614612,
-      "pct": 6.7
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 346669,
-      "pct": 3.78
-    },
-    {
-      "name": "Dart",
-      "bytes": 174461,
-      "pct": 1.9
-    },
-    {
-      "name": "HTML",
-      "bytes": 126693,
-      "pct": 1.38
-    }
-  ],
-  "updated_at": "2026-05-26T03:38:07Z"
+  "updated_at": "2026-05-26T10:00:31Z"
 }
