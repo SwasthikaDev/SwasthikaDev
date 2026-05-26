@@ -30,8 +30,8 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
     <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=SwasthikaDev&hide_border=true&background=00000000&stroke=00000000&ring=198754&fire=dc3545&currStreakNum=0d6efd&currStreakLabel=0d6efd&sideNums=212529&sideLabels=6c757d&dates=6c757d" width="400">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwasthikaDev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffc107&text_color=f8f9fa&langs_count=6">
-    <img alt="top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwasthikaDev&layout=compact&hide_border=true&bg_color=00000000&title_color=0d6efd&text_color=212529&langs_count=6" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/main/assets/languages-dark.svg">
+    <img alt="My Levels - top programming languages" src="https://raw.githubusercontent.com/SwasthikaDev/SwasthikaDev/main/assets/languages.svg" width="400">
   </picture>
 </p>
 
