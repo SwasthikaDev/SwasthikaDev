@@ -38,6 +38,7 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/SwasthikaDev?style=flat-square&logo=github&logoColor=white&label=followers&color=198754&labelColor=212529">
   <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSwasthikaDev&query=%24.public_repos&label=public%20repos&style=flat-square&logo=github&logoColor=white&color=0d6efd&labelColor=212529">
+  <img alt="Private repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSwasthikaDev%2FSwasthikaDev%2Fmain%2Fdata%2Fprofile-stats.json&query=%24.private_repos&label=private%20repos&style=flat-square&logo=github&logoColor=white&color=ffc107&labelColor=212529">
 </p>
 
 ### Where to find me
