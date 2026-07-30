@@ -5,26 +5,19 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=ffc107&center=true&vCenter=true&width=560&height=44&lines=HI%2C+I%27M+SWASTHIKA;FOUNDER+OF+CALYIREX;GOVTECH+FOR+INDIA">
-    <img alt="intro" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=0d6efd&center=true&vCenter=true&width=560&height=44&lines=HI%2C+I%27M+SWASTHIKA;FOUNDER+OF+CALYIREX;GOVTECH+FOR+INDIA">
-  </picture>
-</p>
-
 ### About
 
 I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI tooling for civic and government systems, focused on evidence integrity and Section 65B compliant infrastructure. Right now I am piloting the Bridge Device in Jaipur.
 
 ### Currently building
 
-- 🍄 **Bridge Device**, a hardware unit for forensic grade evidence capture
-- ⭐ **Face matching copilot** for law enforcement workflows
-- 🪙 **Civic AI**, the boring kind that actually ships into government desks
+- **Bridge Device**, a hardware unit for forensic grade evidence capture
+- **Face matching copilot** for law enforcement workflows
+- **Civic AI**, the boring kind that actually ships into government desks
 
 ### Open source
 
-- 🌐 Contributor to [**Nanda Town**](https://github.com/projnanda/nandatown) (MIT Media Lab, Internet of AI Agents) — merged an adversarial-robustness fix to an AI-agent auction-protocol validator.
+- Contributor to [**Nanda Town**](https://github.com/projnanda/nandatown) (MIT Media Lab, Internet of AI Agents) — merged an adversarial-robustness fix to an AI-agent auction-protocol validator.
 
 ### Stats
 
