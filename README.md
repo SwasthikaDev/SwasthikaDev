@@ -9,6 +9,12 @@
 
 I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI tooling for civic and government systems, focused on evidence integrity and Section 65B compliant infrastructure. Right now I am piloting the Bridge Device in Jaipur.
 
+### Personal Wins
+
+Built a citizen facing app used by over 65000+ citizens
+Won 5 different Government backed hackathons (Uttarakhand Police, Rajasthan Police, AndraPradesh Police & SEBI)
+Quzi Master - [*FindingFundaa*](https://findingfundaa.com/) 
+
 ### Currently building
 
 - **Bridge Device**, a hardware unit for forensic grade evidence capture
