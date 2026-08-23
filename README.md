@@ -17,7 +17,7 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 
 ### Open source
 
-- Contributor to [**Nanda Town**](https://github.com/projnanda/nandatown) (MIT Media Lab, Internet of AI Agents) — merged an adversarial-robustness fix to an AI-agent auction-protocol validator.
+- Contributor to [**Nanda Town**](https://github.com/projnanda/nandatown) (MIT Media Lab, Internet of AI Agents) — merged an adversarial-robustness fix to an AI-agent auction-protocol validator (Top 20 PR — NandaHack submission [**CipherWatch**(https://www.media.mit.edu/posts/mit-media-lab-and-hcltech-host-nandahack-to-advance-agentic-ai-innovation/)] ranked among the Top 10 submissions).
 
 ### Stats
 
