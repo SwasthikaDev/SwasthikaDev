@@ -13,6 +13,7 @@ I run **Calyirex** (also Kautilya GovTech), bootstrapped from India. I build AI 
 
 Built a citizen facing app used by over 65000+ citizens
 Won 5 different Government backed hackathons (Uttarakhand State Police, Rajasthan State Police, Andra Pradesh State Police & SEBI)
+I also won too many national hackathons/pitches etc that I lost counting 
 Quzi Master - [*FindingFundaa*](https://findingfundaa.com/) 
 
 ### Currently building
